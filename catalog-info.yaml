@@ -7,14 +7,9 @@ metadata:
   tags:
     - banking-integrar-bis-devs
     - banking
-  links:
-    - url: 'https://allstone.atlassian.net/wiki/spaces/BCT/pages/6519064635/Sistema+de+Notifica+o+para+Parceiros'
-      title: 'Documentação do Projeto'
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: backend
   lifecycle: experimental
   owner: stone-payments/banking-integrar
-  providesApis:
-    - banking-notification-worker-webhook-p0
