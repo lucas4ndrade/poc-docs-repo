@@ -2,6 +2,5 @@
 
 | Nome do Serviço  | Link Para a Documentação      |
 |------------------|-------------------------------|
-| my-service       | https://example.com           |
-| my-other-service | https://example.com           |
-| baas-core        | https://example.com           |
+| baas-service | https://karavela-portal.stone.tech/catalog/banking/api/baas-api/definition |
+| baas-core-api | https://karavela-portal.stone.tech/catalog/stone/api/banking-transfers-transfers-v5-rest/definition |
